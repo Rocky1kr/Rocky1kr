@@ -1,6 +1,6 @@
 # Rocky1kr
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=120&section=header&text=Rocky1kr&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=120&section=header&text=Rocky1kr&fontSize=90&animation=blinking)
 
 ## skill
 
