@@ -1,5 +1,7 @@
 # Rocky1kr
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Rocky1kr&fontSize=90)
+
 ## skill
 
 ![my-skill](https://skillicons.dev/icons?i=py,js)
