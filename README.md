@@ -2,6 +2,7 @@
 
 ## skill
 
+![my-skill](https://skillicons.dev/icons?i=py,js)
 | 기술 | 레벨 |
 | --- | --- |
 | python | 중 |
