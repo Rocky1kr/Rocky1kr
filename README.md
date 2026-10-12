@@ -1,3 +1,13 @@
+# Rocky1kr
+
+## skill
+
+| 기술 | 레벨 |
+| --- | --- |
+| python | 중 |
+| JS | 하 |
+| Windows | 상 |
+
 ## Hi there 👋
 
 <!--
